@@ -1,0 +1,41 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\MMM.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\MMM.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\MMM.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MMM.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\App.g.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MMM_MarkupCompile.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MMM_MarkupCompile.lref
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MainWindow.baml
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MMM.g.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MMM.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MMM.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MMM.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\MMM.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\OxyPlot.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\OxyPlot.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\OxyPlot.xml
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MMM\MMM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\MMM.exe.config
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MMM.pdb
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\MMM.exe
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\MMM.pdb
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\OxyPlot.dll
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\OxyPlot.Wpf.dll
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\OxyPlot.pdb
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\OxyPlot.xml
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\OxyPlot.Wpf.pdb
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\bin\Debug\OxyPlot.Wpf.xml
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MMM.csprojResolveAssemblyReference.cache
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MainWindow.g.cs
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\App.g.cs
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MMM_MarkupCompile.cache
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MMM_MarkupCompile.lref
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MainWindow.baml
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MMM.g.resources
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MMM.Properties.Resources.resources
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MMM.csproj.GenerateResource.Cache
+C:\workspace\workspace_C#\MMM Michał Janowski AiR3 163880\MMM\obj\Debug\MMM.exe
